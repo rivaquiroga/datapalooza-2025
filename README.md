@@ -20,9 +20,8 @@ Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamaci�
 !pip install pandas
 !pip install lxml
 ```
-(Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.)
 
-Durante el taller usaremos Firefox como navegador, pero mostraremos una extensión de Google Chrome que puede ser de utilidad para realizar tareas de web scraping. 
+Durante el taller usaremos Firefox como navegador, pero mostraremos una extensión de [Chrome](https://chromewebstore.google.com/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=es) que puede ser de utilidad para realizar tareas de web scraping. 
 
 ## Atajos de teclado útiles
 
@@ -54,6 +53,38 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 
 :link: [robots.txt 2](https://www.oas.org/)
 
+
+## Actividades
+
+Durante el taller realizaremos algunos ejercicios para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la clase. Por el momento hay un enlace a Dropbox para cada archivo, para poder ir viendo el contenido a medida que vayamos escribiendo en él. Cuando el taller termine, subiremos la última versión de cada archivo a este repositorio.
+
+### Ejercicio 1: extraer texto
+
+:link: [Página web](https://www.minciencia.gob.cl/noticias/plan-de-data-centers-se-abre-a-consulta-ciudadana-convocada-por-el-ministerio-de-ciencia/)
+
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/e57pl6875zrge4nbu7kgr/ejercicio-1_texto.py?rlkey=fsaps10ifemyqb5l9hohgwo1y&dl=0)
+
+
+### Ejercicio 2: extraer tablas
+
+:link: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
+
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/o5wynj0vlukg5cuizyit4/ejercicio-2_tablas.py?rlkey=zei32tuyb0rr0e4g38s4vavu4&dl=0)
+
+### Ejercicio 3: extraer enlaces y descargar archivos
+
+:link: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html)
+
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/lnt1kc6ewzy4imzmj6xcn/ejercicio-3_enlaces-descargas.py?rlkey=imamegzdxn5egt3qqx0g5xv70&dl=0)
+
+
+### Ejercicio 4: demo selenium
+
+Al final del taller haremos una demostración de cómo extraer datos de sitios web dinámicos para que se hagan una idea de las diferencias en el flujo de trabajo respecto del _scraping_ de sitios estáticos. En esa parte no escribiremos el código en vivo, sino que probaremos código escrito con anticipación. 
+
+:link: [Página web](https://www.memoriachilena.gob.cl)
+
+:page_facing_up: [Código](https://www.dropbox.com/scl/fi/rdy354v5yhf4f7ct0erv5/ejercicio-4_demo-selenium.py?rlkey=te9248xheq6hu95tu4e0cgekf&dl=0)
 
 
 
