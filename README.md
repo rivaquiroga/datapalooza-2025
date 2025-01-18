@@ -39,9 +39,13 @@ Existe una extensión de Google Chrome que se llama [SelectorGadget](https://chr
 
 A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. Dejaremos acá los enlaces para que sea más fácil revisarlos. 
 
-:link: [Sitio web estático](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
+:link: [Sitio web estático (tablas)](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:link: [Sitio web dinámico](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
+:link: [Sitio web dinámico (tablas)](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
+
+:link: [Sitio web estático (paginación)](https://www.latercera.com/etiqueta/tecnologia/)
+
+:link: [Sitio web dinámico (paginación)](https://www.emol.com/)
 
 :link: [Condiciones de uso](https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou) 
 
@@ -73,7 +77,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Ejercicio 3: extraer enlaces y descargar archivos
 
-:link: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html)
+:link: [Página web](https://es.wikipedia.org/wiki/Computadora)
 
 :page_facing_up: [Código](https://www.dropbox.com/scl/fi/lnt1kc6ewzy4imzmj6xcn/ejercicio-3_enlaces-descargas.py?rlkey=imamegzdxn5egt3qqx0g5xv70&dl=0)
 
@@ -82,7 +86,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 Al final del taller haremos una demostración de cómo extraer datos de sitios web dinámicos para que se hagan una idea de las diferencias en el flujo de trabajo respecto del _scraping_ de sitios estáticos. En esa parte no escribiremos el código en vivo, sino que probaremos código escrito con anticipación. 
 
-:link: [Página web](https://www.memoriachilena.gob.cl)
+:link: [Página web ejemplo 1](https://www.camara.cl/transparencia/oficinasparlamentarias.aspx) / [Página web ejemplo 2](https://www.memoriachilena.gob.cl)
 
 :page_facing_up: [Código](https://www.dropbox.com/scl/fi/rdy354v5yhf4f7ct0erv5/ejercicio-4_demo-selenium.py?rlkey=te9248xheq6hu95tu4e0cgekf&dl=0)
 
